@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Email
-======
-* jchan.ahn@kaist.ac.kr
+* Email: jchan.ahn@kaist.ac.kr
+* Office: Daejeon, Korea
     
-Office
-======
-* Currently signed in to 43 different slack teams
