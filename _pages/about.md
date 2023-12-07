@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Joongchan Ahn"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the front page of a website
+Hi, I'm Joongchan Ahn.
 
 Education
 ======
@@ -18,10 +18,12 @@ Work experience
 ======
 * Winter 2022: Lab Intern
   * KAIST
-  * Supervisor: Prof.Chanyoung Park
+  * Data Science & Artificail Intelligence Lab
+  * Supervisor: Prof. Chanyoung Park
 
 * Spring 2023: Research Student
   * Hanyang University
+     * Stochastic Operations Research Lab
   * Supervisor: Prof.Chuljin Park
   
 Skills
