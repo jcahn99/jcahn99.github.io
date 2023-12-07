@@ -18,13 +18,11 @@ Work experience
 ======
 * Winter 2022: Lab Intern
   * KAIST
-  * Data Science & Artificail Intelligence Lab
-  * Supervisor: Prof. Chanyoung Park
+  * Data Science & Artificail Intelligence Lab (prof. Chanyoung Park)
 
 * Spring 2023: Research Student
   * Hanyang University
-     * Stochastic Operations Research Lab
-  * Supervisor: Prof.Chuljin Park
+  * Stochastic Operations Research Lab (prof. Chuljin Park)
   
 Skills
 ======
