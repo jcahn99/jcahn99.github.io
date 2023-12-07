@@ -12,11 +12,8 @@ main:
   - title: "Blog Posts"
     url: /blog-archive/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Contact"
-    url: /contact/    
-
+    url: /contact/
+    
   # - title: "Guide"
   #   url: /markdown/
