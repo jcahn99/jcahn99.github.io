@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2022: Lab Intern
+  * KAIST
+  * Supervisor: Prof.Chanyoung Park
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Student
+  * Hanyang University
+  * Supervisor: Prof.Chuljin Park
   
 Skills
 ======
