@@ -11,4 +11,4 @@ redirect_from:
 
 * Email: jchan.ahn@kaist.ac.kr
 * Office: Daejeon, Korea
-Lab: "csd_logo.png"    
+ [Lab:](https://jcahn99.github.io/files/csd_logo.png)
