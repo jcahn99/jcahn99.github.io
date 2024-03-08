@@ -11,7 +11,7 @@ Hi, I'm Joongchan Ahn.
 
 Education
 ======
-* B.S in Industrial Engineering at HANYANG UNIVERSITY (Seoul, Korea)
+* B.S in Industrial Engineering at Hanyang University (Seoul, Korea)
 * M.S Candidate in Industrial & System Engineering at KAIST (Daejeon, Korea)
 
 Work experience
@@ -23,12 +23,6 @@ Work experience
 * Spring 2023: Research Student
   * Hanyang University
   * Stochastic Operations Research Lab (prof. Chuljin Park)
-  
-Skills
-======
-* Python
-* R
-* M.S office
 
 Publications
 ======
