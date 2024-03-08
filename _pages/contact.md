@@ -10,5 +10,6 @@ redirect_from:
 {% include base_path %}
 
 * Email: jchan.ahn@kaist.ac.kr
-* Office: Daejeon, Korea
- [Lab:](https://jcahn99.github.io/files/csd_logo.png)
+* Address: Daehak-ro 291(KAIST), Yuseong-gu, Daejeon, 34141, Republic of Korea
+* Office: Complex System Design Laboratory (E2-2, Room 2113)
+  LAB: (https://jcahn99.github.io/images/csd_logo.png)
