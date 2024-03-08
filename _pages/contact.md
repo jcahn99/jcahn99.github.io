@@ -14,4 +14,5 @@ redirect_from:
 * Office: Complex System Design Laboratory (E2-2, Room 2113)
 
  ![logo]("https://jcahn99.github.io/images/csd_loge.png")
- {: width="30%" height="30%"}
+ 
+ # {: width="30%" height="30%"}
