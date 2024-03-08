@@ -13,5 +13,4 @@ redirect_from:
 * Address: Daehak-ro 291(KAIST), Yuseong-gu, Daejeon, 34141, Republic of Korea
 * Office: Complex System Design Laboratory (E2-2, Room 2113)
 
-<img src="[https://jcahn99.github.io/images/csd_logo.png]" width="200" height="30"/>
- 
+ ![logo](https://jcahn99.github.io/images/csd_loge.png){: width="30%" height="30%"}
