@@ -6,7 +6,7 @@ subtitle: <a href='#'>KAIST Industrial & Systems Engineering</a>. Complex System
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 안중찬_증명사진.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>jchan.ahn@kaist.ac.kr</p>
