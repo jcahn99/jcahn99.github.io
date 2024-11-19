@@ -18,12 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 ## Education
-======
 * B.S in Industrial Engineering at Hanyang University (Seoul, Korea)
 * M.S Candidate in Industrial & System Engineering at KAIST (Daejeon, Korea)
 
 ## Work experience
-======
 * December 2022 - Feburary 2023: Lab Intern
   * KAIST
   * Data Science & Artificail Intelligence Lab
@@ -40,10 +38,8 @@ social: false # includes social icons at the bottom of the page
   * Advisor: Taesik Lee
 
 ## Publications
-======
 * **Delayed Acceptance Metropolis-Hastings for the Bayesian Inference of the Optical Critical Dimension**, Kim, H., S. Lee, J. Ahn, J. Na, and C. Park, Korean Management Science Review 41(1): 39-49, 2024.
 
 ## Presentations
-======
 * **Catchment area, Accessibility and Outcome: Case of Acute Myocardial Infarction in Korea**, Ahn, J., Lee, J., and Lee, T., 2024 KORMS Annual Fall Conference, Goyang, Korea, November 8, 2024
  
