@@ -2,27 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KAIST Industrial & Systems Engineering</a>. Master's Student. Complex System Design Lab. jchan.ahn@kaist.ac.kr
+subtitle: <a href='#'>KAIST Industrial & Systems Engineering</a>. Complex System Design Lab. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>jchan.ahn@kaist.ac.kr</p>
+    <p>KAIST, 291, Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea</p>
     <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
-Education
+## Education
 ======
 * B.S in Industrial Engineering at Hanyang University (Seoul, Korea)
 * M.S Candidate in Industrial & System Engineering at KAIST (Daejeon, Korea)
 
-Work experience
+## Work experience
 ======
 * December 2022 - Feburary 2023: Lab Intern
   * KAIST
@@ -39,11 +39,11 @@ Work experience
   * Complex System Design Lab
   * Advisor: Taesik Lee
 
-Publications
+## Publications
 ======
 * **Delayed Acceptance Metropolis-Hastings for the Bayesian Inference of the Optical Critical Dimension**, Kim, H., S. Lee, J. Ahn, J. Na, and C. Park, Korean Management Science Review 41(1): 39-49, 2024.
 
-Presentations
+## Presentations
 ======
 * **Catchment area, Accessibility and Outcome: Case of Acute Myocardial Infarction in Korea**, Ahn, J., Lee, J., and Lee, T., 2024 KORMS Annual Fall Conference, Goyang, Korea, November 8, 2024
  
