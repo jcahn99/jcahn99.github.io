@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>jchan.ahn@kaist.ac.kr</p>
-    <p>KAIST, 291, Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea</p>
-    <p>Your City, State 12345</p>
+    <p>Daehak-ro 291(KAIST), Yuseong-gu, Daejeon, 34141, Republic of Korea</p>
+    <p>Office: Complex System Design Laboratory (E2-2, Room 2113)</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
