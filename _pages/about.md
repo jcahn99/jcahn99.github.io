@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>jchan.ahn@kaist.ac.kr</p>
     <p>Daehak-ro 291(KAIST), Yuseong-gu, Daejeon, 34141, Republic of Korea</p>
-    <p>Office: Complex System Design Laboratory (E2-2, Room 2113)</p>
+    <p>Office: E2-2, Room 2113</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
