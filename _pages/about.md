@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>KAIST Industrial & Systems Engineering</a>. Master's Student. Complex System Design Lab. jchan.ahn@kaist.ac.kr
 
 profile:
   align: right
@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Education
@@ -26,18 +26,24 @@ Work experience
 ======
 * December 2022 - Feburary 2023: Lab Intern
   * KAIST
-  * Data Science & Artificail Intelligence Lab (prof. Chanyoung Park)
+  * Data Science & Artificail Intelligence Lab
+  * Advisor: Chanyoung Park
 
 * March 2023 - December 2023: Research Student
   * Hanyang University
-  * Stochastic Operations Research Lab (prof. Chuljin Park)
+  * Stochastic Operations Research Lab
+  * Advisor: Chuljin Park
 
 * Feburary 2024 ~: Master's student
   * KAIST
-  * Complex System Design Lab (prof. Taesik Lee)
+  * Complex System Design Lab
+  * Advisor: Taesik Lee
 
-~~Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.~~
+Publications
+======
+* **Delayed Acceptance Metropolis-Hastings for the Bayesian Inference of the Optical Critical Dimension**, Kim, H., S. Lee, J. Ahn, J. Na, and C. Park, Korean Management Science Review 41(1): 39-49, 2024.
 
-~~Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.~~
-
-~~Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.~~
+Presentations
+======
+* **Catchment area, Accessibility and Outcome: Case of Acute Myocardial Infarction in Korea**, Ahn, J., Lee, J., and Lee, T., 2024 KORMS Annual Fall Conference, Goyang, Korea, November 8, 2024
+ 
