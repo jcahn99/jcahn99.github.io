@@ -6,3 +6,11 @@
   links:
     demo: ""
     code: ""
+
+- title: "Data Change Detection Model for Hospital Service Area Adjustment"
+  period: "2024.07. – 2025.06."
+  funded: "National Research Foundation (NRF) Grant"
+  tags: ["Change Point Detection", "Machine Learning"]
+  links:
+    demo: ""
+    code: ""
