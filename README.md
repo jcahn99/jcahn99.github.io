@@ -1,7 +1,6 @@
 # Personal Website (Jekyll · GitHub Pages)
 
 세이지/올리브 그린 톤의 "허바리움 저널" 컨셉 개인 웹페이지입니다.
-al-folio 구조는 참고하지 않고 처음부터 새로 작성했습니다.
 
 ## 폴더 구조
 
