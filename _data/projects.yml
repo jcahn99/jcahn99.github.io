@@ -1,7 +1,7 @@
 # links 하위 값은 없으면 "" 로 두면 자동으로 숨겨집니다.
-- title: "Project Name"
-  period: "2025"
-  description: "One or two sentences describing what this project does and your role."
+- title: "Center for Advanced Urban System of KAIST"
+  period: "2024.07.-2026.02."
+  funded: "GS E&C"
   tags: ["Python", "PyTorch"]
   links:
     demo: ""
