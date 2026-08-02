@@ -1,0 +1,14 @@
+# tags는 없으면 지워도 됩니다.
+- role: "Graduate Research Assistant"
+  lab: "Example AI Lab"
+  institution: "Example University"
+  period: "2023 – Present"
+  description: "Working on ... under the supervision of Prof. Jane Doe."
+  tags: ["Machine Learning", "NLP"]
+
+- role: "Undergraduate Research Intern"
+  lab: "Data Systems Lab"
+  institution: "Example University"
+  period: "2022 – 2023"
+  description: "Contributed to a project on ..."
+  tags: ["Databases"]

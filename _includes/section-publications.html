@@ -1,0 +1,24 @@
+<section class="section wrap" id="publications">
+  <span class="section__eyebrow">Specimen 03</span>
+  <h2 class="section__title">Publications</h2>
+  <div class="entry-list">
+    {% for item in site.data.publications %}
+    <article class="entry">
+      <div class="entry__date">{{ item.year }}</div>
+      <div>
+        <h3 class="entry__title">{{ item.title }}</h3>
+        <p class="entry__meta">{{ item.authors }}</p>
+        <p class="entry__desc">{{ item.venue }}</p>
+        {% if item.links %}
+        <div class="entry__links">
+          {% if item.links.pdf and item.links.pdf != "" %}<a href="{{ item.links.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+          {% if item.links.code and item.links.code != "" %}<a href="{{ item.links.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+          {% if item.links.doi and item.links.doi != "" %}<a href="{{ item.links.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+        </div>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% include divider.html %}

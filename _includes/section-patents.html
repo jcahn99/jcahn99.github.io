@@ -1,0 +1,16 @@
+<section class="section wrap" id="patents">
+  <span class="section__eyebrow">Specimen 06</span>
+  <h2 class="section__title">Patents</h2>
+  <div class="entry-list">
+    {% for item in site.data.patents %}
+    <article class="entry">
+      <div class="entry__date">{{ item.date }}</div>
+      <div>
+        <h3 class="entry__title">{{ item.title }}</h3>
+        <p class="entry__meta">{{ item.number }}{% if item.status %} · {{ item.status }}{% endif %}</p>
+        {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>

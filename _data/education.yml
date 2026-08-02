@@ -1,0 +1,12 @@
+# 최신순으로 위에 추가하세요. description은 선택 사항(없으면 지워도 됨).
+- degree: "Ph.D. in Computer Science"
+  institution: "Example University"
+  location: "Seoul, South Korea"
+  period: "2023 – Present"
+  description: "Advisor: Prof. Jane Doe. Research focus on ..."
+
+- degree: "B.S. in Computer Science"
+  institution: "Example University"
+  location: "Seoul, South Korea"
+  period: "2019 – 2023"
+  description: "Graduated with honors."

@@ -1,0 +1,17 @@
+<section class="section wrap" id="education">
+  <span class="section__eyebrow">Specimen 01</span>
+  <h2 class="section__title">Education</h2>
+  <div class="entry-list">
+    {% for item in site.data.education %}
+    <article class="entry">
+      <div class="entry__date">{{ item.period }}</div>
+      <div>
+        <h3 class="entry__title">{{ item.degree }}</h3>
+        <p class="entry__meta">{{ item.institution }}{% if item.location %} · {{ item.location }}{% endif %}</p>
+        {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% include divider.html %}

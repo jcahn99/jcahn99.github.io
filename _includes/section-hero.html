@@ -1,0 +1,16 @@
+<header class="hero wrap" id="profile">
+  <div class="hero__photo">
+    <img src="{{ site.profile_image | relative_url }}" alt="{{ site.author }} profile photo">
+  </div>
+  <div>
+    <h1 class="hero__name">{{ site.author }}</h1>
+    <p class="hero__tagline">{{ site.tagline }}</p>
+    <div class="hero__contact">
+      <a href="mailto:{{ site.email }}">✉ {{ site.email }}</a>
+      {% if site.social.google_scholar != "" %}<a href="{{ site.social.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+      {% if site.social.github != "" %}<a href="{{ site.social.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
+      {% if site.social.linkedin != "" %}<a href="{{ site.social.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+      {% if site.social.orcid != "" %}<a href="{{ site.social.orcid }}" target="_blank" rel="noopener">ORCID</a>{% endif %}
+    </div>
+  </div>
+</header>

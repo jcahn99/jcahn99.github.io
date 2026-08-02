@@ -1,0 +1,27 @@
+<section class="section wrap" id="projects">
+  <span class="section__eyebrow">Specimen 05</span>
+  <h2 class="section__title">Projects</h2>
+  <div class="entry-list">
+    {% for item in site.data.projects %}
+    <article class="entry">
+      <div class="entry__date">{{ item.period }}</div>
+      <div>
+        <h3 class="entry__title">{{ item.title }}</h3>
+        {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}
+        {% if item.tags %}
+        <div>
+          {% for tag in item.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+        </div>
+        {% endif %}
+        {% if item.links %}
+        <div class="entry__links">
+          {% if item.links.demo and item.links.demo != "" %}<a href="{{ item.links.demo }}" target="_blank" rel="noopener">Demo</a>{% endif %}
+          {% if item.links.code and item.links.code != "" %}<a href="{{ item.links.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+        </div>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% include divider.html %}

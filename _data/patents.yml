@@ -1,0 +1,6 @@
+# status 예: Filed, Pending, Granted
+- title: "Patent Title Here"
+  number: "KR 10-XXXX-XXXXXXX"
+  status: "Filed"
+  date: "2025"
+  description: "One-line description of what the patent covers."

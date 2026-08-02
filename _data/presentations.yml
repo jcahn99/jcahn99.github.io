@@ -1,0 +1,12 @@
+# type 예: Oral, Poster, Invited Talk
+- title: "Talk Title Here"
+  event: "Example Workshop 2026"
+  location: "Seoul, South Korea"
+  date: "2026-03"
+  type: "Oral"
+
+- title: "Poster Title Here"
+  event: "Example Conference 2025"
+  location: "Online"
+  date: "2025-11"
+  type: "Poster"
