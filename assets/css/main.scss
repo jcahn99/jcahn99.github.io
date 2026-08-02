@@ -255,7 +255,7 @@ img { max-width: 100%; display: block; }
   border-radius: 10px;
   padding: 1.1rem 1.3rem;
   display: grid;
-  grid-template-columns: 110px 1fr;
+  grid-template-columns: 180px 1fr;
   gap: 1rem;
 }
 
@@ -267,7 +267,7 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-mono);
   font-size: 0.8rem;
   color: var(--sage-dark);
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .entry__title {
