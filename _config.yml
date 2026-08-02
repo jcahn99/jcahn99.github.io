@@ -8,7 +8,7 @@ baseurl: ""
 author: "Joongchan Ahn"
 
 # 프로필 사진: /assets/images/ 에 파일을 넣고 아래 경로를 수정하세요.
-profile_image: /assets/images/profile-placeholder.svg
+profile_image: /assets/images/증명사진_양복.jpg
 
 # 소셜/외부 링크 (필요 없는 항목은 값을 빈 문자열 "" 로 두면 자동으로 숨겨집니다)
 social:
