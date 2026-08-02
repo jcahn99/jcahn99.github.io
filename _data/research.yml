@@ -8,7 +8,7 @@
 
 - role: "Research Intern"
   lab: "Data Science & Artiricial Intelligence Lab "
-  institution: "Korea Advanced Institute of Science & Technology"
+  institution: "KAIST"
   period: "2022.12. - 2023.02."
   description: "Advisor: Prof. Chanyoung Park"
   tags: ["Graph Neural Network", "Recommender System"]
