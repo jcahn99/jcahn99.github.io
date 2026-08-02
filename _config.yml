@@ -1,11 +1,11 @@
 title: "Joongchan Ahn"
-tagline: "Researcher / Your Field"
+tagline: "Industrial Engineer / Data Scientist"
 description: "Personal academic website — education, research, publications, and projects."
-email: your.email@example.com
+email: jcahn95@gmail.com
 url: "https://jcahn99.github.io"   # 실제 배포 시 https://<본인 아이디>.github.io 로 수정
 baseurl: ""
 
-author: "Your Name"
+author: "Joongchan Ahn"
 
 # 프로필 사진: /assets/images/ 에 파일을 넣고 아래 경로를 수정하세요.
 profile_image: /assets/images/profile-placeholder.svg
