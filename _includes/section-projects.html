@@ -7,6 +7,7 @@
       <div>
         <h3 class="entry__title">{{ item.title }}</h3>
         {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}
+        {% if item.funded %}<p class="entry__desc">{{ item.funded }}</p>{% endif %}
         {% if item.tags %}
         <div>
           {% for tag in item.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
