@@ -216,36 +216,19 @@ img { max-width: 100%; display: block; }
 }
 
 /* =========================================================
-   Signature element: leaf-vein divider
+   Section divider
    ========================================================= */
-.leaf-divider {
-  width: 100%;
-  height: 28px;
-  margin: 0 auto;
+.divider {
   max-width: var(--maxw);
-  opacity: 0.55;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
 }
-.leaf-divider svg { width: 100%; height: 100%; display: block; }
-.leaf-divider path { stroke: var(--sage); }
 
 /* =========================================================
    Sections + specimen-label eyebrow
    ========================================================= */
 .section {
   padding: calc(var(--gap) * 0.7) 0;
-}
-
-.section__eyebrow {
-  display: inline-block;
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--sage-dark);
-  border: 1px dashed var(--sage);
-  border-radius: 3px;
-  padding: 0.2rem 0.55rem;
-  margin-bottom: 0.9rem;
 }
 
 .section__title {
