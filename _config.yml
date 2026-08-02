@@ -1,8 +1,8 @@
-title: "Your Name"
+title: "Joongchan Ahn"
 tagline: "Researcher / Your Field"
 description: "Personal academic website — education, research, publications, and projects."
 email: your.email@example.com
-url: "https://username.github.io"   # 실제 배포 시 https://<본인 아이디>.github.io 로 수정
+url: "https://jcahn99.github.io"   # 실제 배포 시 https://<본인 아이디>.github.io 로 수정
 baseurl: ""
 
 author: "Your Name"
