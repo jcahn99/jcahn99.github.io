@@ -7,7 +7,7 @@
       <div>
         <h3 class="entry__title">{{ item.degree }}</h3>
         <p class="entry__meta">{{ item.institution }}{% if item.location %} · {{ item.location }}{% endif %}</p>
-        {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}({% if item.thesis %}
+        {% if item.description %}<p class="entry__desc">{{ item.description }}</p>{% endif %}{% if item.thesis %}
         <p class="entry__desc">Thesis: {{ item.thesis }}</p>{% endif %}
       </div>
     </article>
